@@ -9,7 +9,7 @@ Projeto de API para gerenciamento de tópicos, publicações e envio de e-mails.
 Para iniciar o processo de instalação da aplicação, é necessário realizar o download do projeto. Para isso, faça clone da aplicação:
 
 ```sh
-git clone git@github.com:fabriciosilvadev/newsletter-api.git
+git clone https://github.com/fabriciosilvadev/newsletter-api.git
 ```
 
 ## 1.2 Instalar dependências
